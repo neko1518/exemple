@@ -9,7 +9,7 @@ from time import sleep
 key="1b117ab4-0042-446f-848f-26b4606a06b7"
 nickname="nicknovo65"
 app_name="genacc65"
-url=""
+url="https://exemple.exemple.repl.co"
 password="2kalgumacoisa"
 
 #by bakugo 
